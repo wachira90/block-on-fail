@@ -27,4 +27,9 @@ type=CRYPTO_KEY_USER msg=audit(1624708006.632:20903330): pid=13129 uid=0 auid=42
 tail -f /etc/hosts.deny
 ```
 
+## crontab remove IP nano /etc/crontab
+```
+5 4 * * 1  root  /bin/python remove-ip.py
+```
+
 ### [Mod By => wachira90@yahoo.com]
