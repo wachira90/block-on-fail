@@ -1,5 +1,5 @@
-# Security-block-ssh
-Security block unwant ssh
+# block-on-fail
+Security block unwant ssh only
 
 ## On root user run by
 
